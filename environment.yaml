@@ -1,0 +1,9 @@
+name: jupyterlab_practice
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.11
+  - otter-grader
+prefix: /opt/miniconda3/envs/jupyterlab_practice
